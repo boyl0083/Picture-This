@@ -38,4 +38,7 @@ img {
   .header {
     grid-template-columns: repeat(2, 1fr);
   }
+  img {
+    float: right;
+  }
 }
